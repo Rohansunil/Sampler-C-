@@ -1,0 +1,7 @@
+C:\Users\sunil-job\source\repos\DownsamplingProject\Sampler\obj\Debug\Sampler.csproj.CoreCompileInputs.cache
+C:\Users\sunil-job\source\repos\DownsamplingProject\Sampler\bin\Debug\Sampler.exe.config
+C:\Users\sunil-job\source\repos\DownsamplingProject\Sampler\bin\Debug\Sampler.exe
+C:\Users\sunil-job\source\repos\DownsamplingProject\Sampler\bin\Debug\Sampler.pdb
+C:\Users\sunil-job\source\repos\DownsamplingProject\Sampler\obj\Debug\Sampler.exe
+C:\Users\sunil-job\source\repos\DownsamplingProject\Sampler\obj\Debug\Sampler.pdb
+C:\Users\sunil-job\source\repos\DownsamplingProject\Sampler\obj\Debug\Sampler.csprojAssemblyReference.cache
