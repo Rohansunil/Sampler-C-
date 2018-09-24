@@ -1,0 +1,9 @@
+
+<div class="container">
+  <div class="row">
+    <form #fileuploadform=ngForm (ngSubmit)='upload(file)'>
+    <input #file type="file" accept=".csv" (change)="handleFileInput($event.target.files)">  
+    <button type="submit" class="btn btn-submit" >Upload</button>
+    </form>
+  </div>
+</div>  

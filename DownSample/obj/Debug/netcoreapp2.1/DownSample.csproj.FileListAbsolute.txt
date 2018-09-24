@@ -1,0 +1,11 @@
+C:\Users\sunil-job\source\repos\Sampler\DownSample\bin\Debug\netcoreapp2.1\DownSample.deps.json
+C:\Users\sunil-job\source\repos\Sampler\DownSample\bin\Debug\netcoreapp2.1\DownSample.runtimeconfig.json
+C:\Users\sunil-job\source\repos\Sampler\DownSample\bin\Debug\netcoreapp2.1\DownSample.runtimeconfig.dev.json
+C:\Users\sunil-job\source\repos\Sampler\DownSample\bin\Debug\netcoreapp2.1\DownSample.dll
+C:\Users\sunil-job\source\repos\Sampler\DownSample\bin\Debug\netcoreapp2.1\DownSample.pdb
+C:\Users\sunil-job\source\repos\Sampler\DownSample\obj\Debug\netcoreapp2.1\DownSample.csprojAssemblyReference.cache
+C:\Users\sunil-job\source\repos\Sampler\DownSample\obj\Debug\netcoreapp2.1\DownSample.csproj.CoreCompileInputs.cache
+C:\Users\sunil-job\source\repos\Sampler\DownSample\obj\Debug\netcoreapp2.1\DownSample.AssemblyInfoInputs.cache
+C:\Users\sunil-job\source\repos\Sampler\DownSample\obj\Debug\netcoreapp2.1\DownSample.AssemblyInfo.cs
+C:\Users\sunil-job\source\repos\Sampler\DownSample\obj\Debug\netcoreapp2.1\DownSample.dll
+C:\Users\sunil-job\source\repos\Sampler\DownSample\obj\Debug\netcoreapp2.1\DownSample.pdb
